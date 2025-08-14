@@ -216,7 +216,7 @@ class Me:
   <a href="https://linkedin.com/in/hristo-bonev">
     <img src="https://img.icons8.com/?size=512&id=Ug9MzXaG6ULZ&format=png" width="80" alt="LinkedIn" />
   </a>
-  <a href="https://hristobonev.com">
+  <a href="https://www.hristobonev.com">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Windows_95_FOLDER.png" width="80" alt="Portfolio" />
   </a>
 
