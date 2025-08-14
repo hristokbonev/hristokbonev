@@ -180,15 +180,18 @@ class Me:
 
 <div align="center">
 
-<a href="mailto:chkbonev@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-<a href="https://linkedin.com/in/hristo-bonev">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="https://hristobonev.com">
-  <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
-</a>
+  <a href="mailto:chkbonev@gmail.com">
+    <img src="https://static.wikia.nocookie.net/logopedia/images/6/6b/OE1999.svg/revision/latest?cb=20231224163913" width="80" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/hristo-bonev">
+    <img src="https://img.icons8.com/?size=512&id=Ug9MzXaG6ULZ&format=png" width="80" alt="LinkedIn" />
+  </a>
+  <a href="https://hristobonev.com">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Windows_95_FOLDER.png" width="80" alt="Portfolio" />
+  </a>
+
+</div>
+
 
 </div>
 
