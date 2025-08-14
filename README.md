@@ -59,73 +59,95 @@ class Me:
 </div>
 
  <table align="center" style="border-collapse: collapse;">
-    <tr>
-      <td align="center" width="100">
-        <a href="https://www.python.org/" target="_blank">
-          <img src="https://img.icons8.com/arcade/64/python.png"/><br>Python
-        </a>
-      </td>
-      <td align="center" width="100">
-        <a href="https://fastapi.tiangolo.com/" target="_blank">
-          <img src="https://img.icons8.com/arcade/64/lightning-bolt.png"/><br>FastAPI
-        </a>
-      </td>
-      <td align="center" width="100">
-        <a href="https://www.postgresql.org/" target="_blank">
-          <img src="https://img.icons8.com/arcade/64/database.png"/><br>PostgreSQL
-        </a>
-      </td>
-      <td align="center" width="100">
-        <a href="https://www.docker.com/" target="_blank">
-          <img src="https://img.icons8.com/arcade/64/whale.png"/><br>Docker
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="100">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-          <img src="https://img.icons8.com/arcade/64/javascript.png"/><br>JavaScript
-        </a>
-      </td>
-      <td align="center" width="100">
-        <a href="https://git-scm.com/" target="_blank">
-          <img src="https://img.icons8.com/color/64/git.png"/><br>Git
-        </a>
-      </td>
-      <td align="center" width="100">
-        <a href="https://aws.amazon.com/" target="_blank">
-          <img src="https://img.icons8.com/arcade/64/cloud.png"/><br>AWS
-        </a>
-      </td>
-      <td align="center" width="100">
-        <a href="https://azure.microsoft.com/" target="_blank">
-    <img src="https://chatgpt.com/backend-api/public_content/enc/eyJpZCI6Im1fNjg5ZTU2ZTJhMTgwODE5MWE4M2NlODFkOGVjMDgwNjA6ZmlsZV8wMDAwMDAwMDlkNjA2MWY0YTRjMDhiNjA3NDFmNGJlYyIsInRzIjoiNDg3NTU3IiwicCI6InB5aSIsInNpZyI6Ijk0ZTNlOWI4OWJiODkzMDMwYWUxODA4ZjNmYmVmN2ExYTcxMzU2MWI2NmQyOTFmNjAyMjU0Zjk1ZDRmODAxNzQiLCJ2IjoiMCIsImdpem1vX2lkIjpudWxsfQ==" alt="Azure" width="64" height="64"/><br>Azure
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="100">
-        <a href="https://scrapy.org/" target="_blank">
-          <img src="https://img.icons8.com/arcade/64/spider.png"/><br>Scrapy 
-        </a>
-      </td>
-      <td align="center" width="100">
-        <a href="https://playwright.dev/" target="_blank">
-          <img src="https://img.icons8.com/arcade/64/clapperboard.png"/><br>Playwright
-        </a>
-      </td>
-      <td align="center" width="100">
-        <a href="https://www.sqlite.org/index.html" target="_blank">
-          <img src="https://img.icons8.com/arcade/64/puzzle.png"/><br>SQL
-        </a>
-      </td>
-      <td align="center" width="100">
-        <a href="https://platform.openai.com/" target="_blank">
-          <img src="https://img.icons8.com/arcade/64/robot.png"/><br>OpenAI
-        </a>
-      </td>
-    </tr>
-  </table>
+  <tr>
+    <td align="center" width="100">
+      <a href="https://www.python.org/" target="_blank">
+        <img src="https://img.icons8.com/arcade/64/python.png"/><br>Python
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="https://fastapi.tiangolo.com/" target="_blank">
+        <img src="https://img.icons8.com/arcade/64/lightning-bolt.png"/><br>FastAPI
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="https://www.postgresql.org/" target="_blank">
+        <img src="https://img.icons8.com/arcade/64/database.png"/><br>PostgreSQL
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="https://www.docker.com/" target="_blank">
+        <img src="https://img.icons8.com/arcade/64/whale.png"/><br>Docker
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+        <img src="https://img.icons8.com/arcade/64/javascript.png"/><br>JavaScript
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="https://git-scm.com/" target="_blank">
+        <img src="https://img.icons8.com/color/64/git.png"/><br>Git
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="https://aws.amazon.com/" target="_blank">
+        <img src="https://img.icons8.com/arcade/64/cloud.png"/><br>AWS
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="https://azure.microsoft.com/" target="_blank">
+        <img src="https://img.icons8.com/arcade/64/azure.png"/><br>Azure
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <a href="https://scrapy.org/" target="_blank">
+        <img src="https://img.icons8.com/arcade/64/spider.png"/><br>Scrapy
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="https://playwright.dev/" target="_blank">
+        <img src="https://img.icons8.com/arcade/64/clapperboard.png"/><br>Playwright
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="https://www.sqlite.org/index.html" target="_blank">
+        <img src="https://img.icons8.com/arcade/64/puzzle.png"/><br>SQL
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="https://platform.openai.com/" target="_blank">
+        <img src="https://img.icons8.com/arcade/64/robot.png"/><br>OpenAI
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="100">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+        <img src="https://img.icons8.com/arcade/64/html-5.png"/><br>HTML
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+      <img src="https://img.icons8.com/color/64/css3.png"/><br>CSS
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="https://docs.python.org/3/library/unittest.html" target="_blank">
+        <img src="https://img.icons8.com/arcade/64/test-passed.png"/><br>Unit Testing
+      </a>
+    </td>
+    <td align="center" width="100">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/HTTP" target="_blank">
+      <img src="https://img.icons8.com/arcade/64/internet.png"/><br>HTTP
+      </a>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
 <pre>
