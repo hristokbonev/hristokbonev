@@ -110,7 +110,6 @@ class HristoBonev:
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hristokbonev&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=radical"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hristokbonev&layout=compact&langs_count=8&theme=radical"/>
 
 </div>
 
