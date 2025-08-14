@@ -15,7 +15,7 @@ class Me:
         self.role = "Junior Software & Data Engineer"
         self.location = ["Sofia", "London"]
         self.background = "Creative → Tech"
-        self.passion = ["AI/ML/Data Engineering", "API Design", "DevOps"]
+        self.passion = ["AI/ML/Data Engineering", "API Design and Backend", "DevOps"]
         self.current_focus = "Building reliable data systems"
         self.next = "Transitioning into AI/ML engineering"
         
