@@ -16,7 +16,8 @@ class Me:
         self.location = ["Sofia", "London"]
         self.background = "Creative → Tech"
         self.passion = ["AI/ML/Data Engineering", "API Design", "DevOps"]
-        self.current_focus = "Building reliable, tested systems"
+        self.current_focus = "Building reliable data systems"
+        self.next = "Transitioning into AI/ML engineering"
         
     @property
     def skills(self):
