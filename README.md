@@ -1,10 +1,6 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi there, I'm Hristo Bonev!
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D8FF&center=true&vCenter=true&width=600&lines=Junior+Software+%26+Data+Engineer;Building+Reliable+Data+Pipelines;Creating+Clean+REST+APIs;Sofia+%E2%86%94+London" alt="Typing SVG" />
-</div>
-
-<div align="center">
   
   [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://hristobonev.com)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hristo-bonev)
