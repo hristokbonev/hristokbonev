@@ -43,7 +43,7 @@ class HristoBonev:
   <img src="https://img.shields.io/badge/Role-Junior%20Data%20Ingestion%20Engineer-blue?style=for-the-badge" />
 </div>
 
-🔧 **Building automated data ingestion pipelines**  
+🔧 **Building and maintaining automated data ingestion pipelines**  
 📊 **Ensuring data quality, reliability & performance at scale**  
 ⚡ **Improving system observability and monitoring**
 
