@@ -31,8 +31,8 @@ class HristoBonev:
     def skills(self):
         return {
             "languages": ["Python", "SQL", "JavaScript", "HTML/CSS"],
-            "frameworks": ["FastAPI", "SQLModel", "Pydantic"],
-            "databases": ["PostgreSQL", "Supabase", "SQLite"],
+            "frameworks": ["FastAPI", "Django", "Flask"],
+            "databases": ["PostgreSQL", "Supabase", "MariaDB"],
             "tools": ["Docker", "Git", "Azure", "AWS"],
             "interests": ["AI/ML", "Data Engineering", "System Design"]
         }
