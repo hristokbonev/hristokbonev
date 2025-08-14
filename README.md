@@ -157,17 +157,13 @@ class Me:
 
 <div align="centre">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hristokbonev&show_icons=true&theme=graywhite&hide_border=true&cache_seconds=86400"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hristokbonev&layout=compact&langs_count=8&theme=graywhite"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hristokbonev&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hristokbonev&layout=compact&langs_count=8&theme=dark"/>
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hristokbonev&theme=graywhite" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hristokbonev&theme=graywhite&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hristokbonev&theme=dark" alt="GitHub Streak" />
 </div>
 
 <div align="center">
