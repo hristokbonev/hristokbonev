@@ -28,7 +28,6 @@ class HristoBonev:
             "frameworks": ["FastAPI", "Django", "Flask"],
             "databases": ["PostgreSQL", "Supabase", "MariaDB"],
             "tools": ["Docker", "Git", "Azure", "AWS"],
-            "interests": ["AI/ML", "Data Engineering", "System Design"]
         }
         
     def current_mission(self):
