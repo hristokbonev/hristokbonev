@@ -1,9 +1,10 @@
+<div align="center">
 <pre>
 ██╗  ██╗██████╗ ██╗███████╗████████╗ ██████╗
-██║  ██║██╔══██╗██║██╔════╝╚══██╔══╝██╔═══██╗
-███████║██████╔╝██║███████╗   ██║   ██║   ██║
-██╔══██║██╔══██╗██║╚════██║   ██║   ██║   ██║
-██║  ██║██║  ██║██║███████║   ██║   ╚██████╔╝ 
+ ██║  ██║██╔══██╗██║██╔════╝╚══██╔══╝██╔═══██╗
+ ███████║██████╔╝██║███████╗   ██║   ██║   ██║
+ ██╔══██║██╔══██╗██║╚════██║   ██║   ██║   ██║
+  ██║  ██║██║  ██║██║███████║   ██║   ╚██████╔╝ 
 ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚══════╝   ╚═╝    ╚═════╝
 </pre>
 </div>
@@ -30,7 +31,7 @@ class Me:
         return "Turning ideas into useful, well-tested systems 🎯"
 ```
 
-<div align="left">
+<div align="center">
 <pre>
     
   ```ascii
@@ -47,13 +48,13 @@ class Me:
 </pre>
 </div>
 
----
-
+<div align="center">
 <pre>
 ┌────────────────────────┐
 │ >> [ TECH ARSENAL ] << │
 └────────────────────────┘
 </pre>
+</div>
 
 <table align="center" style="border-collapse: collapse;">
 <tr>
@@ -146,12 +147,13 @@ class Me:
 </tr>
 </table>
 
----
+<div align="center">
 <pre>
 ┌───────────────────────────┐
 │ >> [ GITHUB ANALYTICS] << │
 └───────────────────────────┘
 </pre>
+</div>
 
 <div align="centre">
 
@@ -168,15 +170,15 @@ class Me:
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hristokbonev&theme=redical&hide_border=true" alt="Contribution Graph" />
 </div>
 
----
-
+<div align="center">
 <pre>
 ┌─────────────────────────────┐
 │ >> ✉[ LET'S CONNECT ]✉ << │
 └─────────────────────────────┘
 </pre>
+</div>
 
-<div align="left">
+<div align="center">
 
 <a href="mailto:chkbonev@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
