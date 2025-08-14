@@ -8,10 +8,9 @@
 ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚══════╝   ╚═╝    ╚═════╝       ╚═════╝  ╚═════╝ ╚═╝  ╚═══╝╚══════╝ ╚═════╝
 </pre>
 </div>
-## 🚀 About Me
 
 ```python
-class HristoBonev:
+class Me:
     def __init__(self):
         self.role = "Junior Software & Data Engineer"
         self.location = ["Sofia", "London"]
