@@ -22,7 +22,7 @@ class Me:
     def skills(self):
         return {
             "languages": ["Python", "SQL", "JavaScript", "HTML/CSS"],
-            "frameworks": ["FastAPI", "Django", "Flask"],
+            "frameworks": ["FastAPI", "Scrapy", "Playwright"],
             "databases": ["PostgreSQL", "Supabase", "MariaDB"],
             "tools": ["Docker", "Git", "Azure", "AWS"],
         }
