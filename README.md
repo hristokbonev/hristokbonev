@@ -1,15 +1,5 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi there, I'm Hristo Bonev!
 
-<div align="center">
-  
-  [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://hristobonev.com)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hristo-bonev)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chkbonev@gmail.com)
-  
-</div>
-
----
-
 ## 🚀 About Me
 
 ```python
@@ -175,45 +165,6 @@ class HristoBonev:
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=redical&hide_border=true" alt="Contribution Graph" />
-</div>
-
----
-
-## 🎯 Current Focus Areas
-
-<div align="center">
-
-```mermaid
-mindmap
-  root((Hristo's Focus))
-    Data Engineering
-      Pipeline Architecture
-      Data Quality
-      ETL/ELT Processes
-      Monitoring & Observability
-    API Development
-      FastAPI Mastery
-      Type Safety
-      Documentation
-      Testing Strategies
-    AI Integration
-      Embeddings & Vector Search
-      Semantic Matching
-      ML Model Deployment
-    DevOps & Scale
-      Container Orchestration
-      CI/CD Optimization
-      Cloud Architecture
-```
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </div>
 
 ---
