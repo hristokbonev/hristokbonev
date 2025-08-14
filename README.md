@@ -15,8 +15,6 @@
 ## 🚀 About Me
 I'm a junior software & data engineer with a **creative background**, focused on turning ideas into **useful, well-tested systems**. I enjoy designing data models, building APIs, and deploying end-to-end solutions with a solid DevOps backbone. I care about **maintainability, clarity, and results**.
 
-**Fun fact:** I was a professional actor and stunt performer 🎬 before pivoting to tech, and I still play the trumpet 🎺 in my free time.
-
 ---
 
 ## 🏢 Currently
