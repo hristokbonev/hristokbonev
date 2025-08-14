@@ -1,1 +1,74 @@
 
+# Hi, I'm Hristo Bonev 👋
+Junior Software & Data Engineer • Sofia ↔ London  
+I build reliable data pipelines, clean REST APIs, and pragmatic web apps—often with FastAPI, Python, SQL, Docker, and a splash of AI.
+
+- Portfolio: https://hristobonev.com
+- LinkedIn: https://www.linkedin.com/in/hristo-bonev/
+- GitHub: https://github.com/hristokbonev
+- Email: mailto:chkbonev@gmail.com
+
+---
+
+## About me
+I’m a junior software and data engineer with a creative background, focused on turning ideas into useful, well-tested systems. I enjoy designing data models, building APIs, and deploying end-to-end solutions with a solid DevOps backbone. I care about maintainability, clarity, and results.
+
+- Currently: Junior Data Ingestion Engineer @ EDITED
+  Building and improving automated data ingestion pipelines, ensuring data quality, reliability, and performance at scale.
+
+- Previously: Survey Programmer (Python/JS/XML in Forsta, Decipher)
+
+---
+
+## Featured projects
+Find code in my pinned repositories on this profile.
+
+- BetweenJobs — Job-resume matching platform  
+  FastAPI + SQLModel + Supabase, cosine-similarity with OpenAI embeddings, JWT auth, Mailjet notifications, Docker + Azure CI/CD. Unit-tested core components.
+
+- hristobonev.com — Personal website & portfolio  
+  FastAPI + Jinja2, responsive UI, SendGrid contact form, AWS S3 for media, deployed on Heroku with CD.
+
+- The Forun — A simple forum platform  
+  FastAPI backend, JWT auth, RESTful endpoints, search & pagination, responsive Jinja2 frontend, MariaDB, unit tests.
+
+- Logistics OOP — Python OOP logistics app  
+  Package/truck models, routing and tracking logic, data integrity checks, unit tests.
+
+---
+
+## Tech & tools I use
+- Languages & Frameworks: Python, FastAPI, JavaScript, HTML, CSS, Jinja2
+- Data & ORM: PostgreSQL, MariaDB/MySQL, SQLite, SQLModel, SQLAlchemy, Supabase
+- Cloud & DevOps: Docker, Azure, AWS S3, Heroku, Git, GitHub, Uvicorn
+- APIs & Integrations: OpenAI API, Mailjet, SendGrid, REST, Pydantic
+- Testing & Security: Pytest, Unit testing, Mocking, JWT auth, SSL, reCAPTCHA
+- Automation & Scraping: Scrapy, Playwright
+
+---
+
+## What I’m focusing on
+- Robust, observable data ingestion and transformation pipelines
+- API design with clear contracts and strong typing (Pydantic/SQLModel)
+- Practical ML/AI integration (semantic search, embeddings, ranking)
+- CI/CD and containerized deployments
+
+---
+
+## Highlights & fun facts
+- Used to be an actor and a stunt performer before becoming a developer
+- I play the trumpet
+- Sports and art junkie
+
+---
+
+## Let’s connect
+- Email: mailto:chkbonev@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/hristo-bonev/  
+- Portfolio: https://hristobonev.com
+
+---
+
+## GitHub stats
+![Hristo's GitHub stats](https://github-readme-stats.vercel.app/api?username=hristokbonev&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hristokbonev&layout=compact)
