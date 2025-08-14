@@ -60,94 +60,95 @@ class Me:
 
 <table align="center" style="border-collapse: collapse;">
 <tr>
-  <td align="center" width="120">
+  <td align="center" width="80">
     <a href="https://aws.amazon.com/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/amazonaws.svg" width="80"/>AWS
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/amazonaws.svg" width="50"/>AWS
     </a>
   </td>
-  <td align="center" width="120">
+  <td align="center" width="80">
     <a href="https://azure.microsoft.com/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="80"/>Azure
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="50"/>Azure
     </a>
   </td>
-  <td align="center" width="120">
+  <td align="center" width="80">
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="80"/>CSS
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>CSS
     </a>
   </td>
-  <td align="center" width="120">
+  <td align="center" width="80">
     <a href="https://www.docker.com/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="80"/>Docker
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/>Docker
     </a>
   </td>
 </tr>
 <tr>
-  <td align="center" width="120">
+  <td align="center" width="80">
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="80"/>HTML
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>HTML
     </a>
   </td>
-  <td align="center" width="120">
+  <td align="center" width="80">
     <a href="https://fastapi.tiangolo.com/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="80"/>FastAPI
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="50"/>FastAPI
     </a>
   </td>
-  <td align="center" width="120">
+  <td align="center" width="80">
     <a href="https://git-scm.com/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="80"/>Git
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>Git
     </a>
   </td>
-  <td align="center" width="120">
+  <td align="center" width="80">
     <a href="https://platform.openai.com/" target="_blank">
-      <img src="https://www.svgrepo.com/show/306500/openai.svg" width="80"/>OpenAI API
+      <img src="https://www.svgrepo.com/show/306500/openai.svg" width="50"/>OpenAI
     </a>
   </td>
 </tr>
 <tr>
-  <td align="center" width="120">
+  <td align="center" width="80">
     <a href="https://www.postgresql.org/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="80"/>PostgreSQL
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50"/>PostgreSQL
     </a>
   </td>
-  <td align="center" width="120">
+  <td align="center" width="80">
     <a href="https://www.python.org/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="80"/>Python
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>Python
     </a>
   </td>
-  <td align="center" width="120">
+  <td align="center" width="80">
     <a href="https://scrapy.org/" target="_blank">
-      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/scrapy.svg" width="80"/>Scrapy
+      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/scrapy.svg" width="50"/>Scrapy
     </a>
   </td>
-  <td align="center" width="120">
+  <td align="center" width="80">
     <a href="https://vitest.dev/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/vitest.svg" width="80"/>Unit Testing
+      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/vitest.svg" width="50"/>Testing
     </a>
   </td>
 </tr>
 <tr>
-  <td align="center" width="120">
+  <td align="center" width="80">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="80"/>JavaScript
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>JS
     </a>
   </td>
-  <td align="center" width="120">
+  <td align="center" width="80">
     <a href="https://playwright.dev/" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="80"/>Playwright
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="50"/>Playwright
     </a>
   </td>
-  <td align="center" width="120">
+  <td align="center" width="80">
     <a href="https://www.sqlite.org/index.html" target="_blank">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="80"/>SQL
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="50"/>SQL
     </a>
   </td>
-  <td align="center" width="120">
+  <td align="center" width="80">
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTTP" target="_blank">
-      <img src="https://img.icons8.com/?size=100&id=bWzzNy3uEGDP&format=png&color=000000" width="80"/>HTTP
+      <img src="https://img.icons8.com/?size=100&id=bWzzNy3uEGDP&format=png&color=000000" width="50"/>HTTP
     </a>
   </td>
 </tr>
 </table>
+
 
 <div align="center">
 <pre>
