@@ -39,12 +39,16 @@ class HristoBonev:
 ## 💼 Currently @ EDITED
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Role-Junior%20Data%20Ingestion%20Engineer-blue?style=for-the-badge" />
+ascii╔══════════════════════════════════════════════════════════════╗
+║  🏢 EDITED                                                   ║
+║  ┌────────────────────────────────────────────────────────┐  ║
+║  │  🚀 Junior Data Ingestion Engineer                     │  ║
+║  │  ⚡ Building automated data ingestion pipelines       │  ║
+║  │  📊 Ensuring data quality & performance at scale      │  ║
+║  │  🔍 Improving system observability & monitoring       │  ║
+║  └────────────────────────────────────────────────────────┘  ║
+╚══════════════════════════════════════════════════════════════╝
 </div>
-
-🔧 **Building and maintaining automated data ingestion pipelines**  
-📊 **Ensuring data quality, reliability & performance at scale**  
-⚡ **Improving system observability and monitoring**
 
 ---
 
