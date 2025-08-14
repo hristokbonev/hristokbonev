@@ -1,4 +1,3 @@
-<div>
 <pre>
 ██╗  ██╗██████╗ ██╗███████╗████████╗ ██████╗
 ██║  ██║██╔══██╗██║██╔════╝╚══██╔══╝██╔═══██╗
@@ -50,68 +49,107 @@ class Me:
 
 ---
 
-## 🛠️ Tech Arsenal
+<h2 align="left">🕹️ Tech Arsenal</h2>
 
-<details>
-<summary><b>🐍 Backend & Data</b></summary>
-<br>
+<table align="center" style="border-collapse: collapse;">
+<tr>
+  <td align="center" width="120">
+    <a href="https://aws.amazon.com/" target="_blank">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/amazonaws.svg" width="80"/>AWS
+    </a>
+  </td>
+  <td align="center" width="120">
+    <a href="https://azure.microsoft.com/" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="80"/>Azure
+    </a>
+  </td>
+  <td align="center" width="120">
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="80"/>CSS
+    </a>
+  </td>
+  <td align="center" width="120">
+    <a href="https://www.docker.com/" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="80"/>Docker
+    </a>
+  </td>
+</tr>
+<tr>
+  <td align="center" width="120">
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="80"/>HTML
+    </a>
+  </td>
+  <td align="center" width="120">
+    <a href="https://fastapi.tiangolo.com/" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="80"/>FastAPI
+    </a>
+  </td>
+  <td align="center" width="120">
+    <a href="https://git-scm.com/" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="80"/>Git
+    </a>
+  </td>
+  <td align="center" width="120">
+    <a href="https://platform.openai.com/" target="_blank">
+      <img src="https://www.svgrepo.com/show/306500/openai.svg" width="80"/>OpenAI API
+    </a>
+  </td>
+</tr>
+<tr>
+  <td align="center" width="120">
+    <a href="https://www.postgresql.org/" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="80"/>PostgreSQL
+    </a>
+  </td>
+  <td align="center" width="120">
+    <a href="https://www.python.org/" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="80"/>Python
+    </a>
+  </td>
+  <td align="center" width="120">
+    <a href="https://scrapy.org/" target="_blank">
+      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/scrapy.svg" width="80"/>Scrapy
+    </a>
+  </td>
+  <td align="center" width="120">
+    <a href="https://vitest.dev/" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/vitest.svg" width="80"/>Unit Testing
+    </a>
+  </td>
+</tr>
+<tr>
+  <td align="center" width="120">
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="80"/>JavaScript
+    </a>
+  </td>
+  <td align="center" width="120">
+    <a href="https://playwright.dev/" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="80"/>Playwright
+    </a>
+  </td>
+  <td align="center" width="120">
+    <a href="https://www.sqlite.org/index.html" target="_blank">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="80"/>SQL
+    </a>
+  </td>
+  <td align="center" width="120">
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTTP" target="_blank">
+      <img src="https://img.icons8.com/?size=100&id=bWzzNy3uEGDP&format=png&color=000000" width="80"/>HTTP
+    </a>
+  </td>
+</tr>
+</table>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![SQLModel](https://img.shields.io/badge/SQLModel-FF6B6B?style=for-the-badge&logo=python&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-</details>
 
-<details>
-<summary><b>🗄️ Databases & Storage</b></summary>
-<br>
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![AWS S3](https://img.shields.io/badge/AWS_S3-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-</details>
-
-<details>
-<summary><b>🚀 DevOps & Deployment</b></summary>
-<br>
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D0?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-</details>
-
-<details>
-<summary><b>🤖 AI & ML Tools</b></summary>
-<br>
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Embeddings](https://img.shields.io/badge/Vector_Embeddings-FF6B6B?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-</details>
-
-<details>
-<summary><b>🌐 Frontend & Web</b></summary>
-<br>
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Jinja2](https://img.shields.io/badge/Jinja2-B41717?style=for-the-badge&logo=jinja&logoColor=white)
-
-</details>
 
 ---
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<div align="centre">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hristokbonev&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hristokbonev&layout=compact&langs_count=8&theme=radical"/>
@@ -124,24 +162,6 @@ class Me:
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hristokbonev&theme=redical&hide_border=true" alt="Contribution Graph" />
-</div>
-
----
-
-## 🎭 Beyond the Code
-
-<div align="center">
-
-| 🎬 **Former Life** | 🎺 **Music** | 🤸 **Active** | 🌍 **Location** |
-|:--:|:--:|:--:|:--:|
-| Actor & Stunt Performer | Trumpet Player | Sports Enthusiast | Sofia ↔ London |
-
-</div>
-
-<div align="center">
-
-*"From stage to code – I bring creativity, precision, and performance to everything I build"*
-
 </div>
 
 ---
@@ -162,12 +182,4 @@ class Me:
 
 </div>
 
----
 
-<div align="center">
-  
-  ### 💡 *"Turning ideas into reliable, well-tested systems—one commit at a time."*
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
-  
-</div>
