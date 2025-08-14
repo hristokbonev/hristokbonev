@@ -49,7 +49,11 @@ class Me:
 
 ---
 
-<h2 align="left">🕹️ Tech Arsenal</h2>
+<pre>
+┌────────────────────────┐
+│ >> [ TECH ARSENAL ] << │
+└────────────────────────┘
+</pre>
 
 <table align="center" style="border-collapse: collapse;">
 <tr>
@@ -142,12 +146,12 @@ class Me:
 </tr>
 </table>
 
-
-
-
 ---
-
-## 📊 GitHub Analytics
+<pre>
+┌───────────────────────────┐
+│ >> [ GITHUB ANALYTICS] << │
+└───────────────────────────┘
+</pre>
 
 <div align="centre">
 
@@ -166,9 +170,13 @@ class Me:
 
 ---
 
-## 🤝 Let's Connect & Collaborate
+<pre>
+┌─────────────────────────────┐
+│ >> ✉[ LET'S CONNECT ]✉ << │
+└─────────────────────────────┘
+</pre>
 
-<div align="center">
+<div align="left">
 
 <a href="mailto:chkbonev@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
