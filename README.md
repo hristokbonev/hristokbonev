@@ -92,7 +92,6 @@ OpenAI | Pytest | JWT
 ---
 
 ## 🤝 Let's Connect
-If you're hiring or want to collaborate on **backend/data/AI projects**, let's chat!  
 
 📧 Email: [chkbonev@gmail.com](mailto:chkbonev@gmail.com)  
 💼 LinkedIn: [hristo-bonev](https://www.linkedin.com/in/hristo-bonev)  
