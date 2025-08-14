@@ -1,107 +1,101 @@
-# Hi, I'm Hristo Bonev 👋
+<h1 align="center">Hi there 👋, I'm Hristo Bonev</h1>
+<p align="center">
+  Junior Software & Data Engineer • Sofia ↔ London<br>
+  I build reliable data pipelines, clean REST APIs, and pragmatic web apps—often with <strong>FastAPI, Python, SQL, Docker</strong>, and a splash of AI 🤖
+</p>
 
-**Junior Software & Data Engineer** • Sofia ↔ London  
-I build reliable data pipelines, clean REST APIs, and pragmatic web apps—often with FastAPI, Python, SQL, Docker, and a splash of AI.
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-hristobonev.com-blue?style=flat&logo=firefox)](https://hristobonev.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-hristo--bonev-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/hristo-bonev/)
-[![Email](https://img.shields.io/badge/Email-chkbonev@gmail.com-red?style=flat&logo=gmail)](mailto:chkbonev@gmail.com)
+<p align="center">
+  <a href="https://hristobonev.com" target="_blank">🌐 Portfolio</a> •
+  <a href="https://www.linkedin.com/in/hristo-bonev" target="_blank">💼 LinkedIn</a> •
+  <a href="mailto:chkbonev@gmail.com">📧 Email</a>
+</p>
 
 ---
 
 ## 🚀 About Me
+I'm a junior software & data engineer with a **creative background**, focused on turning ideas into **useful, well-tested systems**. I enjoy designing data models, building APIs, and deploying end-to-end solutions with a solid DevOps backbone. I care about **maintainability, clarity, and results**.
 
-I'm a junior software and data engineer with a creative background, focused on turning ideas into useful, well-tested systems. I enjoy designing data models, building APIs, and deploying end-to-end solutions with a solid DevOps backbone. I care about maintainability, clarity, and results.
+**Fun fact:** I was a professional actor and stunt performer 🎬 before pivoting to tech, and I still play the trumpet 🎺 in my free time.
 
-- 🏢 **Currently:** Junior Data Ingestion Engineer @ EDITED  
-  Building and improving automated data ingestion pipelines, ensuring data quality, reliability, and performance at scale.
+---
+
+## 🏢 Currently
+**Junior Data Ingestion Engineer @ EDITED**  
+Building and improving **automated data ingestion pipelines**, ensuring data quality, reliability, and performance at scale.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages & Frameworks**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+<details>
+<summary>Click to expand my tech stack ⚡</summary>
 
-**Databases & ORM**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+### Languages & Frameworks
+Python | FastAPI | JavaScript | HTML | CSS
 
-**Cloud & DevOps**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+### Databases & ORM
+PostgreSQL | MySQL | SQLite | Supabase
 
-**APIs & Testing**  
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=json-web-tokens&logoColor=white)
+### Cloud & DevOps
+Docker | Azure | AWS | Heroku | Git
+
+### APIs & Testing
+OpenAI | Pytest | JWT
+
+</details>
 
 ---
 
 ## 🎯 Featured Projects
 
-### 🔗 [BetweenJobs](https://github.com/hristokbonev/betweenjobs) — Job-Resume Matching Platform
-**FastAPI + SQLModel + Supabase** | Cosine-similarity with OpenAI embeddings, JWT auth, Mailjet notifications, Docker + Azure CI/CD. Unit-tested core components.
+### 🔗 [BetweenJobs — Job-Resume Matching Platform](https://github.com/hristokbonev/BetweenJobs)
+- **Tech:** FastAPI + SQLModel + Supabase
+- **Highlights:** Cosine-similarity with OpenAI embeddings, JWT auth, Mailjet notifications, Docker + Azure CI/CD
+- **Testing:** Unit-tested core components
 
-### 🌐 [hristobonev.com](https://github.com/hristokbonev/portfolio) — Personal Website & Portfolio
-**FastAPI + Jinja2** | Responsive UI, SendGrid contact form, AWS S3 for media, deployed on Heroku with CD.
+### 🌐 [hristobonev.com — Personal Website & Portfolio](https://hristobonev.com)
+- **Tech:** FastAPI + Jinja2 | Responsive UI
+- **Highlights:** SendGrid contact form, AWS S3 for media, Heroku deployment with CD
 
-### 💬 [The Forun](https://github.com/hristokbonev/the-forun) — Simple Forum Platform
-**FastAPI backend** | JWT auth, RESTful endpoints, search & pagination, responsive Jinja2 frontend, MariaDB, unit tests.
+### 💬 [The Forun — Simple Forum Platform](https://github.com/hristokbonev/TheForun)
+- **Backend:** FastAPI | JWT auth
+- **Frontend:** Responsive Jinja2
+- **Features:** RESTful endpoints, search & pagination, unit tests
 
-### 📦 [Logistics OOP](https://github.com/hristokbonev/logistics-oop) — Python OOP Logistics App
-**Python OOP** | Package/truck models, routing and tracking logic, data integrity checks, unit tests.
+### 📦 [Logistics OOP — Python OOP Logistics App](https://github.com/hristokbonev/LogisticsOOP)
+- **Highlights:** Package/truck models, routing/tracking logic, data integrity checks, unit tests
 
 ---
 
-## 🎯 What I'm Focusing On
-
-- 🔄 Robust, observable data ingestion and transformation pipelines
-- 🔗 API design with clear contracts and strong typing (Pydantic/SQLModel)
-- 🤖 Practical ML/AI integration (semantic search, embeddings, ranking)
-- 🚀 CI/CD and containerized deployments
+## 🔭 What I'm Focusing On
+- 🔄 Robust, observable **data ingestion & transformation pipelines**
+- 🔗 **API design** with clear contracts & strong typing (Pydantic/SQLModel)
+- 🤖 Practical **ML/AI integration** (semantic search, embeddings, ranking)
+- 🚀 **CI/CD and containerized deployments**
 
 ---
 
 ## 🎭 Fun Facts
-
-- 🎬 **Former Actor and Stunt Performer** before pivoting to tech
-- 🎺 **I play the trumpet**
-- 🤸 **Sports and arts junkie**
+- 🎬 Former actor & stunt performer
+- 🎺 Trumpet player
+- 🤸 Sports & arts junkie
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  
-![Hristo's GitHub stats](https://github-readme-stats.vercel.app/api?username=hristokbonev&show_icons=true&theme=default&hide_border=true)
+![Hristo's GitHub stats](https://github-readme-stats.vercel.app/api?username=hristokbonev&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hristokbonev&layout=compact&theme=default&hide_border=true)
-
-</div>
+**Top Languages:**  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hristokbonev&layout=compact&theme=radical)
 
 ---
 
 ## 🤝 Let's Connect
+If you're hiring or want to collaborate on **backend/data/AI projects**, let's chat!  
 
-If you're hiring or looking to collaborate on backend/data/AI projects, I'd love to chat!
+📧 Email: [chkbonev@gmail.com](mailto:chkbonev@gmail.com)  
+💼 LinkedIn: [hristo-bonev](https://www.linkedin.com/in/hristo-bonev)  
+🌐 Portfolio: [hristobonev.com](https://hristobonev.com)
 
-- 📧 **Email:** [chkbonev@gmail.com](mailto:chkbonev@gmail.com)
-- 💼 **LinkedIn:** [hristo-bonev](https://www.linkedin.com/in/hristo-bonev/)
-- 🌐 **Portfolio:** [hristobonev.com](https://hristobonev.com)
-
----
-
-<div align="center">
-  <i>💡 "Turning ideas into reliable, well-tested systems—one commit at a time."</i>
-</div>
+> 💡 "Turning ideas into reliable, well-tested systems—one commit at a time."
