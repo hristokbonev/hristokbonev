@@ -24,7 +24,7 @@ class HristoBonev:
         self.role = "Junior Software & Data Engineer"
         self.location = ["Sofia", "London"]
         self.background = "Creative → Tech"
-        self.passion = ["Data Pipelines", "API Design", "DevOps"]
+        self.passion = ["AI/ML/Data Engineering", "API Design", "DevOps"]
         self.current_focus = "Building reliable, tested systems"
         
     @property
