@@ -99,7 +99,7 @@ class Me:
     </td>
     <td align="center" width="100">
       <a href="https://azure.microsoft.com/" target="_blank">
-        <img src="https://img.icons8.com/arcade/64/azure.png"/><br>Azure
+        <img src="https://chatgpt.com/backend-api/public_content/enc/eyJpZCI6Im1fNjg5ZTU2ZTJhMTgwODE5MWE4M2NlODFkOGVjMDgwNjA6ZmlsZV8wMDAwMDAwMDlkNjA2MWY0YTRjMDhiNjA3NDFmNGJlYyIsInRzIjoiNDg3NTU3IiwicCI6InB5aSIsInNpZyI6Ijk0ZTNlOWI4OWJiODkzMDMwYWUxODA4ZjNmYmVmN2ExYTcxMzU2MWI2NmQyOTFmNjAyMjU0Zjk1ZDRmODAxNzQiLCJ2IjoiMCIsImdpem1vX2lkIjpudWxsfQ=="/><br>Azure
       </a>
     </td>
   </tr>
@@ -111,7 +111,7 @@ class Me:
     </td>
     <td align="center" width="100">
       <a href="https://playwright.dev/" target="_blank">
-        <img src="https://img.icons8.com/arcade/64/clapperboard.png"/><br>Playwright
+    <img src="https://cdn.brandfetch.io/idpyc8TcWP/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1751115292804"/><br>Playwright
       </a>
     </td>
     <td align="center" width="100">
