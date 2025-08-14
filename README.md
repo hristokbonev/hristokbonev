@@ -27,7 +27,8 @@ class HristoBonev:
         self.passion = ["Data Pipelines", "API Design", "DevOps"]
         self.current_focus = "Building reliable, tested systems"
         
-    def get_skills(self):
+    @property
+    def skills(self):
         return {
             "languages": ["Python", "SQL", "JavaScript", "HTML/CSS"],
             "frameworks": ["FastAPI", "SQLModel", "Pydantic"],
