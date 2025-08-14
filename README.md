@@ -102,7 +102,7 @@ class Me:
     </td>
     <td width="100">
       <a href="https://platform.openai.com/" target="_blank">
-        <img src="https://img.icons8.com/arcade/64/robot.png" width="64" height="64"/><br>OpenAI
+        <img src="https://img.icons8.com/arcade/64/robot.png" width="64" height="64"/><br>OpenAI API
       </a>
     </td>
   </tr>
@@ -119,8 +119,16 @@ class Me:
         <img src="https://img.icons8.com/arcade/64/puzzle.png" width="64" height="64"/><br>SQL
       </a>
     </td>
-    <td width="100">&nbsp;</td>
-    <td width="100">&nbsp;</td>
+    <td width="100">
+      <a href="https://mariadb.org/" target="_blank">
+    <img src="https://media.amazonwebservices.com/blog/2015/mariadb_seal_shaded_browntext_alt_1.png">
+      </a>
+    </td>
+    <td width="100">
+      <a href="https://supabase.com/" target="_blank">
+        <img src="https://cdn.iconscout.com/icon/free/png-256/supabase-3628992-3030163.png" width="64" height="64"/><br>Supabase
+      </a>
+    </td>
   </tr>
 
   <!-- DevOps / Cloud -->
@@ -159,8 +167,16 @@ class Me:
         <img src="https://img.icons8.com/arcade/64/internet.png" width="64" height="64"/><br>HTTP
       </a>
     </td>
-    <td width="100">&nbsp;</td>
-    <td width="100">&nbsp;</td>
+    <td width="100">
+      <a href="https://en.wikipedia.org/wiki/Object-oriented_programming" target="_blank">
+        <img src="https://cdn4.iconfinder.com/data/icons/technology-83/1000/object_programming_development_oriented_developer_object-oriented_programming_software-1024.png" width="64" height="64"/><br>OOP
+      </a>
+    </td>
+    <td width="100">
+      <a href="https://en.wikipedia.org/wiki/Data_structure" target="_blank">
+        <img src="https://img.icons8.com/ios-filled/64/data-configuration.png" width="64" height="64"/><br>DSA
+      </a>
+    </td>
   </tr>
 </table>
 
