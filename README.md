@@ -47,7 +47,9 @@ class Me:
   ```
 </pre>
 </div>
+
 ---
+
 ## 🛠️ Tech Arsenal
 
 <details>
