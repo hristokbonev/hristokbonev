@@ -104,52 +104,6 @@ class HristoBonev:
 
 ---
 
-## 🎯 Featured Projects
-
-<div align="center">
-
-### 🔗 [BetweenJobs](https://github.com/yourusername/betweenjobs) - AI-Powered Job Matching
-*FastAPI • SQLModel • Supabase • OpenAI Embeddings*
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=betweenjobs&theme=radical)](https://github.com/yourusername/betweenjobs)
-
-**🔥 Key Features:**
-- 🤖 **AI-powered matching** using cosine similarity with OpenAI embeddings
-- 🔐 **JWT authentication** & secure user management
-- 📧 **Automated notifications** via Mailjet
-- 🐳 **Dockerized deployment** with Azure CI/CD
-- ✅ **Comprehensive unit testing**
-
----
-
-### 🌐 [Personal Portfolio](https://hristobonev.com) - Dynamic Web Presence
-*FastAPI • Jinja2 • AWS S3 • SendGrid*
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=portfolio&theme=radical)](https://github.com/yourusername/portfolio)
-
-**🔥 Key Features:**
-- 📱 **Responsive design** across all devices
-- 📬 **Smart contact form** with SendGrid integration
-- ☁️ **AWS S3** for optimized media delivery
-- 🚀 **Heroku deployment** with continuous delivery
-
----
-
-### 💬 [The Forum](https://github.com/yourusername/forum) - Modern Discussion Platform
-*FastAPI • JWT Auth • RESTful API*
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=forum&theme=radical)](https://github.com/yourusername/forum)
-
-**🔥 Key Features:**
-- 🔍 **Advanced search** & pagination
-- 🔒 **Secure authentication** system
-- 📊 **RESTful API** design
-- 🧪 **Comprehensive testing** suite
-
-</div>
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
