@@ -57,129 +57,47 @@ class Me:
 └────────────────────────┘
 </pre>
 </div>
+ 
+<p align="left">
+  <strong>Cloud & DevOps</strong><br>
+  <img
+    src="https://go-skill-icons.vercel.app/api/icons?i=aws,azure,docker,heroku,grafana&perline=7"
+  />
+</p>
 
- <table align="center" style="border-collapse: collapse; text-align: center;">
-  <!-- Programming Languages -->
-  <tr>
-    <td width="100">
-      <a href="https://www.python.org/" target="_blank">
-        <img src="https://img.icons8.com/arcade/64/python.png" width="64" height="64"/><br>Python
-      </a>
-    </td>
-    <td width="100">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-        <img src="https://img.icons8.com/arcade/64/javascript.png" width="64" height="64"/><br>JavaScript
-      </a>
-    </td>
-    <td width="100">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-        <img src="https://img.icons8.com/arcade/64/html-5.png" width="64" height="64"/><br>HTML
-      </a>
-    </td>
-    <td width="100">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-        <img src="https://img.icons8.com/color/64/css3.png" width="64" height="64"/><br>CSS
-      </a>
-    </td>
-  </tr>
+<p align="left">
+  <strong>Backend</strong><br>
+  <img
+    src="https://go-skill-icons.vercel.app/api/icons?i=py,fastapi,flask,chatgpt,huggingface,playwright,json&perline=7"
+    style="vertical-align: middle;"
+  />
+</p>
 
-  <!-- Web Frameworks & Automation -->
-  <tr>
-    <td width="100">
-      <a href="https://fastapi.tiangolo.com/" target="_blank">
-        <img src="https://img.icons8.com/arcade/64/lightning-bolt.png" width="64" height="64"/><br>FastAPI
-      </a>
-    </td>
-    <td width="100">
-      <a href="https://scrapy.org/" target="_blank">
-        <img src="https://img.icons8.com/arcade/64/spider.png" width="64" height="64"/><br>Scrapy
-      </a>
-    </td>
-    <td width="100">
-      <a href="https://playwright.dev/" target="_blank">
-        <img src="https://cdn.brandfetch.io/idpyc8TcWP/w/400/h/400/theme/dark/icon.png?c=1bxid64Mup7aczewSAYMX&t=1751115292804" width="64" height="64"/><br>Playwright
-      </a>
-    </td>
-    <td width="100">
-      <a href="https://platform.openai.com/" target="_blank">
-        <img src="https://img.icons8.com/arcade/64/robot.png" width="64" height="64"/><br>OpenAI API
-      </a>
-    </td>
-  </tr>
+<p align="left">
+  <strong>Frontend</strong><br>
+  <img
+    src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js&perline=7"
+  />
+</p>
 
-  <!-- Databases -->
-  <tr>
-    <td width="100">
-      <a href="https://www.postgresql.org/" target="_blank">
-        <img src="https://img.icons8.com/arcade/64/database.png" width="64" height="64"/><br>PostgreSQL
-      </a>
-    </td>
-    <td width="100">
-      <a href="https://www.sqlite.org/index.html" target="_blank">
-        <img src="https://img.icons8.com/arcade/64/puzzle.png" width="64" height="64"/><br>SQL
-      </a>
-    </td>
-    <td width="100">
-      <a href="https://mariadb.org/" target="_blank">
-    <img src="https://media.amazonwebservices.com/blog/2015/mariadb_seal_shaded_browntext_alt_1.png">
-      </a>
-    </td>
-    <td width="100">
-      <a href="https://supabase.com/" target="_blank">
-        <img src="https://cdn.iconscout.com/icon/free/png-256/supabase-3628992-3030163.png" width="64" height="64"/><br>Supabase
-      </a>
-    </td>
-  </tr>
+<p align="left">
+  <strong>Databases</strong><br>
+  <img
+    src="https://go-skill-icons.vercel.app/api/icons?i=mysql,postgres,sqlite,supabase&perline=7"
+  />
+</p>
 
-  <!-- DevOps / Cloud -->
-  <tr>
-    <td width="100">
-      <a href="https://www.docker.com/" target="_blank">
-        <img src="https://img.icons8.com/arcade/64/whale.png" width="64" height="64"/><br>Docker
-      </a>
-    </td>
-    <td width="100">
-      <a href="https://aws.amazon.com/" target="_blank">
-        <img src="https://img.icons8.com/arcade/64/cloud.png" width="64" height="64"/><br>AWS
-      </a>
-    </td>
-    <td width="100">
-      <a href="https://azure.microsoft.com/" target="_blank">
-        <img src="https://chatgpt.com/backend-api/public_content/enc/eyJpZCI6Im1fNjg5ZTU2ZTJhMTgwODE5MWE4M2NlODFkOGVjMDgwNjA6ZmlsZV8wMDAwMDAwMDlkNjA2MWY0YTRjMDhiNjA3NDFmNGJlYyIsInRzIjoiNDg3NTU3IiwicCI6InB5aSIsInNpZyI6Ijk0ZTNlOWI4OWJiODkzMDMwYWUxODA4ZjNmYmVmN2ExYTcxMzU2MWI2NmQyOTFmNjAyMjU0Zjk1ZDRmODAxNzQiLCJ2IjoiMCIsImdpem1vX2lkIjpudWxsfQ==" width="64" height="64"/><br>Azure
-      </a>
-    </td>
-    <td width="100">
-      <a href="https://git-scm.com/" target="_blank">
-        <img src="https://img.icons8.com/color/64/git.png" width="64" height="64"/><br>Git
-      </a>
-    </td>
-  </tr>
+<p align="left">
+  <strong>API / Tools</strong><br>
+  <img
+    src="https://go-skill-icons.vercel.app/api/icons?i=postman&perline=7"
+  />
+</p>
 
-  <!-- Testing & HTTP -->
-  <tr>
-    <td width="100">
-      <a href="https://docs.python.org/3/library/unittest.html" target="_blank">
-        <img src="https://img.icons8.com/arcade/64/test-passed.png" width="64" height="64"/><br>Unit Testing
-      </a>
-    </td>
-    <td width="100">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/HTTP" target="_blank">
-        <img src="https://img.icons8.com/arcade/64/internet.png" width="64" height="64"/><br>HTTP
-      </a>
-    </td>
-    <td width="100">
-      <a href="https://en.wikipedia.org/wiki/Object-oriented_programming" target="_blank">
-        <img src="https://cdn4.iconfinder.com/data/icons/technology-83/1000/object_programming_development_oriented_developer_object-oriented_programming_software-1024.png" width="64" height="64"/><br>OOP
-      </a>
-    </td>
-    <td width="100">
-      <a href="https://en.wikipedia.org/wiki/Data_structure" target="_blank">
-        <img src="https://img.icons8.com/ios-filled/64/data-configuration.png" width="64" height="64"/><br>DSA
-      </a>
-    </td>
-  </tr>
-</table>
 
+
+
+ 
 <div align="center">
 <pre>
 ┌───────────────────────────┐
