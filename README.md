@@ -52,49 +52,34 @@ class Me:
 
 <div align="center">
 <pre>
-┌────────────────────────┐
-│ >> [ TECH ARSENAL ] << │
-└────────────────────────┘
+┌─────────────────────────────────┐
+│ >> [ ACHIEVEMENTS UNLOCKED ] << │
+└─────────────────────────────────┘
 </pre>
 </div>
  
 <p align="left">
-  <strong>Cloud & DevOps</strong><br>
-  <img
-    src="https://go-skill-icons.vercel.app/api/icons?i=aws,azure,docker,heroku,grafana&perline=7"
-  />
+  <img src="icons/generated_image_AWS.png" alt="AWS" width="50" height="50"/>
+  <img src="icons/generated_image_Azure.png" alt="Azure" width="50" height="50"/>
+  <img src="icons/generated_image_Docker.png" alt="Docker" width="50" height="50"/>
+  <img src="icons/generated_image_Heroku.png" alt="Heroku" width="50" height="50"/>
+  <img src="icons/generated_image_Grafana.png" alt="Grafana" width="50" height="50"/>
+  <img src="icons/generated_image_Python.png" alt="Python" width="50" height="50"/>
+  <img src="icons/generated_image_FastAPI.png" alt="FastAPI" width="50" height="50"/>
+  <img src="icons/generated_image_Flask.png" alt="Flask" width="50" height="50"/>
+  <img src="icons/generated_image_Hugging_Face.png" alt="HuggingFace" width="50" height="50"/>
+  <img src="icons/generated_image_Playwright.png" alt="Playwright" width="50" height="50"/>
+  <img src="icons/generated_image_JSON.png" alt="JSON" width="50" height="50"/>
+  <img src="icons/generated_image_HTML.png" alt="HTML" width="50" height="50"/>
+  <img src="icons/generated_image_CSS.png" alt="CSS" width="50" height="50"/>
+  <img src="icons/generated_image_JavaScript.png" alt="JavaScript" width="50" height="50"/>
+  <img src="icons/generated_image_MySQL.png" alt="MySQL" width="50" height="50"/>
+  <img src="icons/generated_image_PostgreSQL.png" alt="PostgreSQL" width="50" height="50"/>
+  <img src="icons/generated_image_SQLite.png" alt="SQLite" width="50" height="50"/>
+  <img src="icons/generated_image_Supabase.png" alt="Supabase" width="50" height="50"/>
+  <img src="icons/generated_image_Postman.png" alt="Postman" width="50" height="50"/>
+  <img src="icons/generated_image_Git.png" alt="Git" width="50" height="50"/>
 </p>
-
-<p align="left">
-  <strong>Backend</strong><br>
-  <img
-    src="https://go-skill-icons.vercel.app/api/icons?i=py,fastapi,flask,chatgpt,huggingface,playwright,json&perline=7"
-    style="vertical-align: middle;"
-  />
-</p>
-
-<p align="left">
-  <strong>Frontend</strong><br>
-  <img
-    src="https://go-skill-icons.vercel.app/api/icons?i=html,css,js&perline=7"
-  />
-</p>
-
-<p align="left">
-  <strong>Databases</strong><br>
-  <img
-    src="https://go-skill-icons.vercel.app/api/icons?i=mysql,postgres,sqlite,supabase&perline=7"
-  />
-</p>
-
-<p align="left">
-  <strong>API / Tools</strong><br>
-  <img
-    src="https://go-skill-icons.vercel.app/api/icons?i=postman&perline=7"
-  />
-</p>
-
-
 
 
  
