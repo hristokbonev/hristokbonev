@@ -165,7 +165,7 @@ class Me:
 <div align="center">
 <pre>
 ┌───────────────────────────┐
-│ >> [ GITHUB ANALYTICS] << │
+│ >> [ PLAYER STATS ] << │
 └───────────────────────────┘
 </pre>
 </div>
