@@ -27,9 +27,6 @@ class Me:
             "databases": ["PostgreSQL", "Supabase", "MariaDB"],
             "tools": ["Docker", "Git", "Azure", "AWS"],
         }
-        
-    def current_mission(self):
-        return "Turning ideas into useful, well-tested systems 🎯"
 ```
 
 <div align="center">
