@@ -68,9 +68,9 @@ class Me:
   <img src="icons/generated_image_FastAPI.png" alt="FastAPI" width="50" height="50"/>
   <img src="icons/generated_image_Flask.png" alt="Flask" width="50" height="50"/>
   <img src="icons/generated_image_Hugging_Face.png" alt="HuggingFace" width="50" height="50"/>
-  <img src="icons/generated_image_Playwright.png" alt="Playwright" width="50" height="50"/>
+  <img src="icons/generated_image_Playwright_2.png" alt="Playwright" width="50" height="50"/>
   <img src="icons/generated_image_JSON.png" alt="JSON" width="50" height="50"/>
-  <img src="icons/generated_image_HTML.png" alt="HTML" width="50" height="50"/>
+  <img src="icons/generated_image_HTML_2.png" alt="HTML" width="50" height="50"/>
   <img src="icons/generated_image_CSS.png" alt="CSS" width="50" height="50"/>
   <img src="icons/generated_image_JavaScript.png" alt="JavaScript" width="50" height="50"/>
   <img src="icons/generated_image_MySQL.png" alt="MySQL" width="50" height="50"/>
