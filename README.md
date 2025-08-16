@@ -111,14 +111,14 @@ class Me:
 </p>
 
 <p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="icons/generated_image_JavaScript.png" alt="JavaScript" width="50" height="50"/>
+   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="icons/generated_image_HTML_2.png" alt="HTML" width="50" height="50"/>
+  </a>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
     <img src="icons/generated_image_CSS.png" alt="CSS" width="50" height="50"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="icons/generated_image_JavaScript.png" alt="JavaScript" width="50" height="50"/>
   </a>
   <a href="https://www.json.org/json-en.html" target="_blank">
     <img src="icons/generated_image_JSON.png" alt="JSON" width="50" height="50"/>
