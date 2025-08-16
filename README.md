@@ -170,15 +170,15 @@ class Me:
 </pre>
 </div>
 
-<div align="center">
+<div align="left">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hristokbonev&layout=compact&langs_count=8&theme=dark"/>
 </div>
 
-<div align="center">
+<div align="left">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hristokbonev&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400"/>
 </div>
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=hristokbonev&theme=dark" alt="GitHub Streak" />
 </div>
 
