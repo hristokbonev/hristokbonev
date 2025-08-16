@@ -120,6 +120,9 @@ class Me:
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
     <img src="icons/generated_image_CSS.png" alt="CSS" width="50" height="50"/>
   </a>
+  <a href="https://jinja.palletsprojects.com/en/stable/" target="_blank">
+    <img src="icons/generated_image_Jinja.png" alt="Jinja" width="50" height="50"/>
+  </a>
   <img src="icons/generated_image_empty.png" alt="empty" width="50" height="50"/>
 </p>
 
