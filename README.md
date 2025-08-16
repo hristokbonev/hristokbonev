@@ -120,9 +120,6 @@ class Me:
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
     <img src="icons/generated_image_CSS.png" alt="CSS" width="50" height="50"/>
   </a>
-  <a href="https://www.json.org/json-en.html" target="_blank">
-    <img src="icons/generated_image_JSON.png" alt="JSON" width="50" height="50"/>
-  </a>
   <img src="icons/generated_image_empty.png" alt="empty" width="50" height="50"/>
 </p>
 
