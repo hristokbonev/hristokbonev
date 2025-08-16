@@ -58,28 +58,67 @@ class Me:
 </pre>
 </div>
  
+<!-- Import font via Google Fonts link (only works in some renderers, for GitHub fallback will use monospace) -->
+<link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+
 <p align="left">
   <img src="icons/generated_image_AWS.png" alt="AWS" width="50" height="50"/>
   <img src="icons/generated_image_Azure.png" alt="Azure" width="50" height="50"/>
-  <img src="icons/generated_image_Docker.png" alt="Docker" width="50" height="50"/>
   <img src="icons/generated_image_Heroku.png" alt="Heroku" width="50" height="50"/>
-  <img src="icons/generated_image_Grafana.png" alt="Grafana" width="50" height="50"/>
+  <img src="icons/generated_image_Docker.png" alt="Docker" width="50" height="50"/>
+  <img src="icons/generated_image_Git.png" alt="Git" width="50" height="50"/>
+ <img src="icons/generated_image_empty.png" alt="empty" width="50" height="50"/>
+</p>
+
+<p align="left">
   <img src="icons/generated_image_Python.png" alt="Python" width="50" height="50"/>
   <img src="icons/generated_image_FastAPI.png" alt="FastAPI" width="50" height="50"/>
   <img src="icons/generated_image_Flask.png" alt="Flask" width="50" height="50"/>
-  <img src="icons/generated_image_Hugging_Face.png" alt="HuggingFace" width="50" height="50"/>
-  <img src="icons/generated_image_Playwright_2.png" alt="Playwright" width="50" height="50"/>
-  <img src="icons/generated_image_JSON.png" alt="JSON" width="50" height="50"/>
-  <img src="icons/generated_image_HTML_2.png" alt="HTML" width="50" height="50"/>
-  <img src="icons/generated_image_CSS.png" alt="CSS" width="50" height="50"/>
-  <img src="icons/generated_image_JavaScript.png" alt="JavaScript" width="50" height="50"/>
+  <img src="icons/generated_image_empty.png" alt="empty" width="50" height="50"/>
+
+</p>
+
+<p align="left">
   <img src="icons/generated_image_MySQL.png" alt="MySQL" width="50" height="50"/>
+   <img src="icons/generated_image_MariaDB.png" alt="MariaDB" width="50" height="50"/>
   <img src="icons/generated_image_PostgreSQL.png" alt="PostgreSQL" width="50" height="50"/>
   <img src="icons/generated_image_SQLite.png" alt="SQLite" width="50" height="50"/>
   <img src="icons/generated_image_Supabase.png" alt="Supabase" width="50" height="50"/>
-  <img src="icons/generated_image_Postman.png" alt="Postman" width="50" height="50"/>
-  <img src="icons/generated_image_Git.png" alt="Git" width="50" height="50"/>
+  <img src="icons/generated_image_empty.png" alt="empty" width="50" height="50"/>
+
 </p>
+
+<p align="left">
+  <img src="icons/generated_image_HTML_2.png" alt="HTML" width="50" height="50"/>
+  <img src="icons/generated_image_CSS.png" alt="CSS" width="50" height="50"/>
+  <img src="icons/generated_image_JavaScript.png" alt="JavaScript" width="50" height="50"/>
+  <img src="icons/generated_image_JSON.png" alt="JSON" width="50" height="50"/>
+  <img src="icons/generated_image_empty.png" alt="empty" width="50" height="50"/>
+</p>
+
+<p align="left">
+  <img src="icons/generated_image_Playwright_2.png" alt="Playwright" width="50" height="50"/>
+ <img src="icons/generated_image_Scrapy.png" alt="Scrapy" width="50" height="50"/>
+  <img src="icons/generated_image_empty.png" alt="empty" width="50" height="50"/>
+
+</p>
+
+<p align="left">
+  <img src="icons/generated_image_Grafana.png" alt="Grafana" width="50" height="50"/>
+  <img src="icons/generated_image_Postman.png" alt="Postman" width="50" height="50"/>
+  <img src="icons/generated_image_empty.png" alt="empty" width="50" height="50"/>
+
+</p>
+
+<p align="left">
+  <img src="icons/generated_image_Hugging_Face.png" alt="HuggingFace" width="50" height="50"/>
+  <img src="icons/generated_image_OpenAI_API.png" alt="OpenAIAPI" width="50" height="50"/>
+ <img src="icons/generated_image_empty.png" alt="empty" width="50" height="50"/>
+</p>
+
+
+
+
 
 
  
