@@ -165,7 +165,7 @@ class Me:
 <div align="center">
 <pre>
 ┌───────────────────────────┐
-│ >> [ PLAYER STATS ] << │
+│ >> [ STATS ] << │
 └───────────────────────────┘
 </pre>
 </div>
