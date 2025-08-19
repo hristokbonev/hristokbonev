@@ -50,7 +50,7 @@ class Me:
 <div align="center">
 <pre>
 ┌─────────────────────────────────┐
-│ >> [ ACHIEVEMENTS UNLOCKED ] << │
+│ >> [ SKILLS UNLOCKED ] << │
 └─────────────────────────────────┘
 </pre>
 </div>
