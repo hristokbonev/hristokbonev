@@ -75,7 +75,7 @@ class Me:
   <img src="https://hristobonevbucket.s3.eu-north-1.amazonaws.com/media/images/generated_image_empty.png" alt="empty" width="50" height="50"/>
 </p>
 
-`Backend and APIs`
+`Python Stack`
 <p align="left">
   <a href="https://www.python.org/" target="_blank">
     <img src="https://hristobonevbucket.s3.eu-north-1.amazonaws.com/media/images/generated_image_Python.png" alt="Python" width="50" height="50"/>
