@@ -58,99 +58,99 @@ class Me:
 
 <p align="left">
   <a href="https://aws.amazon.com/" target="_blank">
-    <img src="icons/generated_image_AWS.png" alt="AWS" width="50" height="50"/>
+    <img src="https://hristobonevbucket.s3.eu-north-1.amazonaws.com/media/images/generated_image_AWS.png" alt="AWS" width="50" height="50"/>
   </a>
   <a href="https://azure.microsoft.com/" target="_blank">
-    <img src="icons/generated_image_Azure.png" alt="Azure" width="50" height="50"/>
+    <img src="https://hristobonevbucket.s3.eu-north-1.amazonaws.com/media/images/generated_image_Azure.png" alt="Azure" width="50" height="50"/>
   </a>
   <a href="https://www.heroku.com/" target="_blank">
-    <img src="icons/generated_image_Heroku.png" alt="Heroku" width="50" height="50"/>
+    <img src="https://hristobonevbucket.s3.eu-north-1.amazonaws.com/media/images/generated_image_Heroku.png" alt="Heroku" width="50" height="50"/>
   </a>
   <a href="https://www.docker.com/" target="_blank">
-    <img src="icons/generated_image_Docker.png" alt="Docker" width="50" height="50"/>
+    <img src="https://hristobonevbucket.s3.eu-north-1.amazonaws.com/media/images/generated_image_Docker.png" alt="Docker" width="50" height="50"/>
   </a>
   <a href="https://git-scm.com/" target="_blank">
-    <img src="icons/generated_image_Git.png" alt="Git" width="50" height="50"/>
+    <img src="https://hristobonevbucket.s3.eu-north-1.amazonaws.com/media/images/generated_image_Git.png" alt="Git" width="50" height="50"/>
   </a>
-  <img src="icons/generated_image_empty.png" alt="empty" width="50" height="50"/>
+  <img src="https://hristobonevbucket.s3.eu-north-1.amazonaws.com/media/images/generated_image_empty.png" alt="empty" width="50" height="50"/>
 </p>
 
 <p align="left">
   <a href="https://www.python.org/" target="_blank">
-    <img src="icons/generated_image_Python.png" alt="Python" width="50" height="50"/>
+    <img src="https://hristobonevbucket.s3.eu-north-1.amazonaws.com/media/images/generated_image_Python.png" alt="Python" width="50" height="50"/>
   </a>
   <a href="https://fastapi.tiangolo.com/" target="_blank">
-    <img src="icons/generated_image_FastAPI.png" alt="FastAPI" width="50" height="50"/>
+    <img src="https://hristobonevbucket.s3.eu-north-1.amazonaws.com/media/images/generated_image_FastAPI.png" alt="FastAPI" width="50" height="50"/>
   </a>
   <a href="https://flask.palletsprojects.com/" target="_blank">
-    <img src="icons/generated_image_Flask.png" alt="Flask" width="50" height="50"/>
+    <img src="https://hristobonevbucket.s3.eu-north-1.amazonaws.com/media/images/generated_image_Flask.png" alt="Flask" width="50" height="50"/>
   </a>
-  <img src="icons/generated_image_empty.png" alt="empty" width="50" height="50"/>
+  <img src="https://hristobonevbucket.s3.eu-north-1.amazonaws.com/media/images/generated_image_empty.png" alt="empty" width="50" height="50"/>
 </p>
 
 <p align="left">
   <a href="https://www.mysql.com/" target="_blank">
-    <img src="icons/generated_image_MySQL.png" alt="MySQL" width="50" height="50"/>
+    <img src="https://hristobonevbucket.s3.eu-north-1.amazonaws.com/media/images/generated_image_MySQL.png" alt="MySQL" width="50" height="50"/>
   </a>
   <a href="https://mariadb.org/" target="_blank">
-    <img src="icons/generated_image_MariaDB.png" alt="MariaDB" width="50" height="50"/>
+    <img src="https://hristobonevbucket.s3.eu-north-1.amazonaws.com/media/images/generated_image_MariaDB.png" alt="MariaDB" width="50" height="50"/>
   </a>
   <a href="https://www.postgresql.org/" target="_blank">
-    <img src="icons/generated_image_PostgreSQL.png" alt="PostgreSQL" width="50" height="50"/>
+    <img src="https://hristobonevbucket.s3.eu-north-1.amazonaws.com/media/images/generated_image_PostgreSQL.png" alt="PostgreSQL" width="50" height="50"/>
   </a>
   <a href="https://www.sqlite.org/" target="_blank">
-    <img src="icons/generated_image_SQLite.png" alt="SQLite" width="50" height="50"/>
+    <img src="https://hristobonevbucket.s3.eu-north-1.amazonaws.com/media/images/generated_image_SQLite.png" alt="SQLite" width="50" height="50"/>
   </a>
   <a href="https://supabase.com/" target="_blank">
-    <img src="icons/generated_image_Supabase.png" alt="Supabase" width="50" height="50"/>
+    <img src="https://hristobonevbucket.s3.eu-north-1.amazonaws.com/media/images/generated_image_Supabase.png" alt="Supabase" width="50" height="50"/>
   </a>
-  <img src="icons/generated_image_empty.png" alt="empty" width="50" height="50"/>
+  <img src="https://hristobonevbucket.s3.eu-north-1.amazonaws.com/media/images/generated_image_empty.png" alt="empty" width="50" height="50"/>
 </p>
 
 <p align="left">
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="icons/generated_image_JavaScript.png" alt="JavaScript" width="50" height="50"/>
+    <img src="https://hristobonevbucket.s3.eu-north-1.amazonaws.com/media/images/generated_image_JavaScript.png" alt="JavaScript" width="50" height="50"/>
    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="icons/generated_image_HTML_2.png" alt="HTML" width="50" height="50"/>
+    <img src="https://hristobonevbucket.s3.eu-north-1.amazonaws.com/media/images/generated_image_HTML_2.png" alt="HTML" width="50" height="50"/>
   </a>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="icons/generated_image_CSS.png" alt="CSS" width="50" height="50"/>
+    <img src="https://hristobonevbucket.s3.eu-north-1.amazonaws.com/media/images/generated_image_CSS.png" alt="CSS" width="50" height="50"/>
   </a>
   <a href="https://jinja.palletsprojects.com/en/stable/" target="_blank">
-    <img src="icons/generated_image_Jinja.png" alt="Jinja" width="50" height="50"/>
+    <img src="https://hristobonevbucket.s3.eu-north-1.amazonaws.com/media/images/generated_image_Jinja.png" alt="Jinja" width="50" height="50"/>
   </a>
-  <img src="icons/generated_image_empty.png" alt="empty" width="50" height="50"/>
+  <img src="https://hristobonevbucket.s3.eu-north-1.amazonaws.com/media/images/generated_image_empty.png" alt="empty" width="50" height="50"/>
 </p>
 
 <p align="left">
   <a href="https://playwright.dev/" target="_blank">
-    <img src="icons/generated_image_Playwright_2.png" alt="Playwright" width="50" height="50"/>
+    <img src="https://hristobonevbucket.s3.eu-north-1.amazonaws.com/media/images/generated_image_Playwright_2.png" alt="Playwright" width="50" height="50"/>
   </a>
   <a href="https://scrapy.org/" target="_blank">
-    <img src="icons/generated_image_Scrapy.png" alt="Scrapy" width="50" height="50"/>
+    <img src="https://hristobonevbucket.s3.eu-north-1.amazonaws.com/media/images/generated_image_Scrapy.png" alt="Scrapy" width="50" height="50"/>
   </a>
-  <img src="icons/generated_image_empty.png" alt="empty" width="50" height="50"/>
+  <img src="https://hristobonevbucket.s3.eu-north-1.amazonaws.com/media/images/generated_image_empty.png" alt="empty" width="50" height="50"/>
 </p>
 
 <p align="left">
   <a href="https://grafana.com/" target="_blank">
-    <img src="icons/generated_image_Grafana.png" alt="Grafana" width="50" height="50"/>
+    <img src="https://hristobonevbucket.s3.eu-north-1.amazonaws.com/media/images/generated_image_Grafana.png" alt="Grafana" width="50" height="50"/>
   </a>
   <a href="https://www.postman.com/" target="_blank">
-    <img src="icons/generated_image_Postman.png" alt="Postman" width="50" height="50"/>
+    <img src="https://hristobonevbucket.s3.eu-north-1.amazonaws.com/media/images/generated_image_Postman.png" alt="Postman" width="50" height="50"/>
   </a>
   <img src="icons/generated_image_empty.png" alt="empty" width="50" height="50"/>
 </p>
 
 <p align="left">
   <a href="https://huggingface.co/" target="_blank">
-    <img src="icons/generated_image_Hugging_Face.png" alt="HuggingFace" width="50" height="50"/>
+    <img src="https://hristobonevbucket.s3.eu-north-1.amazonaws.com/media/images/generated_image_Hugging_Face.png" alt="HuggingFace" width="50" height="50"/>
   </a>
   <a href="https://platform.openai.com/docs/" target="_blank">
-    <img src="icons/generated_image_OpenAI_API.png" alt="OpenAIAPI" width="50" height="50"/>
+    <img src="https://hristobonevbucket.s3.eu-north-1.amazonaws.com/media/images/generated_image_OpenAI_API.png" alt="OpenAIAPI" width="50" height="50"/>
   </a>
-  <img src="icons/generated_image_empty.png" alt="empty" width="50" height="50"/>
+  <img src="https://hristobonevbucket.s3.eu-north-1.amazonaws.com/media/images/generated_image_empty.png" alt="empty" width="50" height="50"/>
 </p>
 
  
