@@ -54,10 +54,20 @@ class Me:
 └─────────────────────────────────┘
 </pre>
 </div>
- 
-```ascii
-DevOps
-```
+
+<!-- Arcade font from Google Fonts -->
+<link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+
+<style>
+  .retro {
+    font-family: 'Press Start 2P', cursive;
+    font-size: 14px;
+    color: #39ff14; /* neon green */
+    text-shadow: 2px 2px 0px #000000;
+  }
+</style>
+
+<span class="retro">DevOps</span>
 <p align="left">
   <a href="https://aws.amazon.com/" target="_blank">
     <img src="https://hristobonevbucket.s3.eu-north-1.amazonaws.com/media/images/generated_image_AWS.png" alt="AWS" width="50" height="50"/>
@@ -76,11 +86,7 @@ DevOps
   </a>
   <img src="https://hristobonevbucket.s3.eu-north-1.amazonaws.com/media/images/generated_image_empty.png" alt="empty" width="50" height="50"/>
 </p>
-
-```ascii
 Backend and Frameworks
-```
-
 <p align="left">
   <a href="https://www.python.org/" target="_blank">
     <img src="https://hristobonevbucket.s3.eu-north-1.amazonaws.com/media/images/generated_image_Python.png" alt="Python" width="50" height="50"/>
@@ -93,11 +99,7 @@ Backend and Frameworks
   </a>
   <img src="https://hristobonevbucket.s3.eu-north-1.amazonaws.com/media/images/generated_image_empty.png" alt="empty" width="50" height="50"/>
 </p>
-
-```ascii
 Databases
-```
-
 <p align="left">
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://hristobonevbucket.s3.eu-north-1.amazonaws.com/media/images/generated_image_MySQL.png" alt="MySQL" width="50" height="50"/>
@@ -116,11 +118,7 @@ Databases
   </a>
   <img src="https://hristobonevbucket.s3.eu-north-1.amazonaws.com/media/images/generated_image_empty.png" alt="empty" width="50" height="50"/>
 </p>
-
-```ascii
 Frontend
-```
-
 <p align="left">
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://hristobonevbucket.s3.eu-north-1.amazonaws.com/media/images/generated_image_JavaScript.png" alt="JavaScript" width="50" height="50"/>
@@ -136,11 +134,7 @@ Frontend
   </a>
   <img src="https://hristobonevbucket.s3.eu-north-1.amazonaws.com/media/images/generated_image_empty.png" alt="empty" width="50" height="50"/>
 </p>
-
-```ascii
 Scraping and Automation
-```
-
 <p align="left">
   <a href="https://playwright.dev/" target="_blank">
     <img src="https://hristobonevbucket.s3.eu-north-1.amazonaws.com/media/images/generated_image_Playwright_2.png" alt="Playwright" width="50" height="50"/>
@@ -150,11 +144,7 @@ Scraping and Automation
   </a>
   <img src="https://hristobonevbucket.s3.eu-north-1.amazonaws.com/media/images/generated_image_empty.png" alt="empty" width="50" height="50"/>
 </p>
-
-```ascii
 Tools
-```
-
 <p align="left">
   <a href="https://grafana.com/" target="_blank">
     <img src="https://hristobonevbucket.s3.eu-north-1.amazonaws.com/media/images/generated_image_Grafana.png" alt="Grafana" width="50" height="50"/>
@@ -164,11 +154,7 @@ Tools
   </a>
   <img src="https://hristobonevbucket.s3.eu-north-1.amazonaws.com/media/images/generated_image_empty.png" alt="empty" width="50" height="50"/>
 </p>
-
-```ascii
 AI and LLM
-```
-
 <p align="left">
   <a href="https://huggingface.co/" target="_blank">
     <img src="https://hristobonevbucket.s3.eu-north-1.amazonaws.com/media/images/generated_image_Hugging_Face.png" alt="HuggingFace" width="50" height="50"/>
