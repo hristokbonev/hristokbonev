@@ -140,7 +140,7 @@ class Me:
   <a href="https://www.postman.com/" target="_blank">
     <img src="https://hristobonevbucket.s3.eu-north-1.amazonaws.com/media/images/generated_image_Postman.png" alt="Postman" width="50" height="50"/>
   </a>
-  <img src="icons/generated_image_empty.png" alt="empty" width="50" height="50"/>
+  <img src="https://hristobonevbucket.s3.eu-north-1.amazonaws.com/media/images/generated_image_empty.png" alt="empty" width="50" height="50"/>
 </p>
 
 <p align="left">
