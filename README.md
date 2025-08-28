@@ -176,10 +176,6 @@ class Me:
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hristokbonev&show_icons=true&bg_color=151b23&text_color=c9d1d9&title_color=ffa500&icon_color=daa520&border_color=21262d&hide_border=false&border_radius=8&ring_color=ffa500&cache_seconds=86400"/>
 </div>
 
-<div align="left">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=hristokbonev&background=151b23&stroke=21262d&ring=ffa500&fire=cd853f&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=ffa500&sideLabels=ffa500&dates=7d8590&border=21262d&border_radius=8" alt="GitHub Streak" />
-</div>
-
 <div align="center">
 <pre>
 ┌─────────────────────────────┐
