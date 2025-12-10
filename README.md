@@ -161,7 +161,8 @@ class Me:
 
  
 <div align="center">
-<pre>
+ 
+<!-- <pre>
 ┌───────────────────────────┐
 │      >> [ STATS ] <<      │
 └───────────────────────────┘
@@ -176,9 +177,8 @@ class Me:
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hristokbonev"/>
 </div>
 
-[![Hristo's GitHub stats](https://github-readme-stats.vercel.app/api?username=hristokbonev)](https://github.com/hristokbonev/)
-
 <div align="center">
+  -->
 <pre>
 ┌─────────────────────────────┐
 │   >> [ LET'S CONNECT ] <<   │
