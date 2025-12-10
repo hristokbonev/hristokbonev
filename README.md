@@ -169,11 +169,11 @@ class Me:
 </div>
 
 <div align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hristokbonev&layout=compact&langs_count=8&bg_color=151b23&text_color=c9d1d9&title_color=ffa500&icon_color=daa520&border_color=21262d&hide_border=false&border_radius=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hristokbonev"/>
 </div>
 
 <div align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hristokbonev&show_icons=true&bg_color=151b23&text_color=c9d1d9&title_color=ffa500&icon_color=daa520&border_color=21262d&hide_border=false&border_radius=8&ring_color=ffa500&cache_seconds=86400"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hristokbonev"/>
 </div>
 
 <div align="center">
