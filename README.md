@@ -72,6 +72,9 @@ class Me:
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://hristobonevbucket.s3.eu-north-1.amazonaws.com/media/images/generated_image_Git.png" alt="Git" width="50" height="50"/>
   </a>
+  <a href="https://www.linux.org/" target="_blank">
+    <img src="https://hristobonevbucket.s3.eu-north-1.amazonaws.com/media/images/generated_image_Linux.png" alt="Git" width="50" height="50"/>
+  </a>
   <img src="https://hristobonevbucket.s3.eu-north-1.amazonaws.com/media/images/generated_image_empty.png" alt="empty" width="50" height="50"/>
 </p>
 
