@@ -58,7 +58,7 @@ class Me:
 `DevOps`
 <p align="left">
   <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://hristobonevbucket.s3.eu-north-1.amazonaws.com/media/images/generated_image_AWS.png" alt="AWS" width="100" height="100"/>
+    <img src="https://hristobonevbucket.s3.eu-north-1.amazonaws.com/media/images/generated_image_AWS.png" alt="AWS" width="60" height="60"/>
   </a>
   <a href="https://azure.microsoft.com/" target="_blank">
     <img src="https://hristobonevbucket.s3.eu-north-1.amazonaws.com/media/images/generated_image_Azure.png" alt="Azure" width="50" height="50"/>
