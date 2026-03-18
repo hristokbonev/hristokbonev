@@ -34,12 +34,12 @@ class Me:
     
   ```ascii
 ╔══════════════════════════════════════════════════════════════╗╔══════════════════════════════════════════════════════════════╗
-║ 🏢 WORK @ EDITED                                             ║║ 🏠 HOME                                                     ║
+║ 🏢 WORK @ EDITED                                             ║║ 🏠 HOME                                                      ║
 ║ ┌────────────────────────────────────────────────────────┐   ║║ ┌────────────────────────────────────────────────────────┐   ║
-║ │ 🚀 Junior Data Ingestion Engineer                      │   ║║ │ 🎬 Former Actor and Stunt performer                   │   ║
-║ │ ⚡ Building automated data ingestion systems           │   ║║ │ 🤸 Sport and arts junkie                              │   ║
-║ │ 📊 Ensuring data quality & performance at scale        │   ║║ │ 🎤 Launching my stand-up comedy soon                  │   ║
-║ │ 🔍 Improving system observability & monitoring         │   ║║ │ 🃏 Wildcard in Every Room                             │   ║
+║ │ 🚀 Junior Data Ingestion Engineer                      │   ║║ │ 🎬 Former Actor and Stunt performer                    │   ║
+║ │ ⚡ Building automated data ingestion systems           │   ║║ │ 🤸 Sport and arts junkie                                │   ║
+║ │ 📊 Ensuring data quality & performance at scale        │   ║║ │ 🎤 Launching my stand-up comedy soon                   │   ║
+║ │ 🔍 Improving system observability & monitoring         │   ║║ │ 🃏 TBI survivor and mental health advocate             │   ║
 ║ └────────────────────────────────────────────────────────┘   ║║ └────────────────────────────────────────────────────────┘   ║
 ╚══════════════════════════════════════════════════════════════╝╚══════════════════════════════════════════════════════════════╝
 
