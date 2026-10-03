@@ -12,20 +12,23 @@
 ```python
 class Me:
     def __init__(self):
-        self.role = "Junior Software & Data Engineer"
+        self.role = "Backend Engineer"
         self.location = ["Sofia", "London"]
         self.background = "Creative → Tech"
-        self.passion = ["AI/ML/Data Engineering", "Backend and API Design", "DevOps"]
-        self.current_focus = "Building reliable data systems"
-        self.vision = "Transitioning into AI/ML engineering"
+        self.passion = ["AI", "Data", "Backend Engineering"]
+        self.current_focus = "Backend services, AI tools, MCP integrations & agent skills"
+        self.vision = "Building technology that gives people their time back"
         
     @property
     def skills(self):
         return {
-            "languages": ["Python", "SQL", "JavaScript", "HTML/CSS"],
-            "frameworks": ["FastAPI", "Scrapy", "Playwright"],
-            "databases": ["PostgreSQL", "Supabase", "MariaDB"],
+            "languages": ["Python", "TypeScript", "JavaScript", "SQL"],
+            "runtimes": ["Node.js"],
+            "frameworks": ["NestJS", "FastAPI", "React Native", "Scrapy", "Playwright"],
+            "databases": ["PostgreSQL", "MySQL", "MariaDB", "Redis"],
+            "data_tools": ["Prisma", "SQLAlchemy", "SQLModel", "PostGIS", "Supabase"],
             "tools": ["Docker", "Git", "Azure", "AWS"],
+            "ai": ["Claude Code", "Codex", "Cursor", "OpenAI API"],
         }
 ```
 
@@ -34,12 +37,13 @@ class Me:
     
   ```ascii
 ╔══════════════════════════════════════════════════════════════╗╔══════════════════════════════════════════════════════════════╗
-║ 🏢 WORK @ EDITED                                             ║║ 🏠 HOME                                                      ║
+║ 🏢 WORK @ Wildcard                                           ║║ 🏠 HOME                                                      ║
 ║ ┌────────────────────────────────────────────────────────┐   ║║ ┌────────────────────────────────────────────────────────┐   ║
-║ │ 🚀 Junior Data Ingestion Engineer                      │   ║║ │ 🎬 Former Actor and Stunt performer                    │   ║
-║ │ ⚡ Building automated data ingestion systems            │   ║║ │ 🤸 Sport and arts junkie                               │   ║
-║ │ 📊 Ensuring data quality & performance at scale        │   ║║ │ 🎤 Launching my stand-up comedy soon                   │   ║
-║ │ 🔍 Improving system observability & monitoring         │   ║║ │ 🃏 TBI survivor and mental health advocate             │   ║
+║ │ 🚀 Backend Engineer                                    │   ║║ │ 🎬 Former Actor and Stunt performer                    │   ║
+║ │ ⚡ Building backend services with TypeScript & Node.js  │   ║║ │ 🤸 Sport and arts junkie                               │   ║
+║ │ 🔗 Developing REST APIs & platform integrations        │   ║║ │ 🎤 Launching my stand-up comedy soon                   │   ║
+║ │ 🛠️ Building AI tools, MCP integrations & agent skills  │   ║║ │ 🛠️ Working on Scene, my dating & social app            │   ║
+║ │ 🧪 Testing, debugging & keeping systems reliable       │   ║║ │ 🌍 Can’t stay in one place for too long                │   ║
 ║ └────────────────────────────────────────────────────────┘   ║║ └────────────────────────────────────────────────────────┘   ║
 ╚══════════════════════════════════════════════════════════════╝╚══════════════════════════════════════════════════════════════╝
 
