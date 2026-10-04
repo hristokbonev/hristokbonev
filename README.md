@@ -183,6 +183,9 @@ class Me:
   <a href="https://www.postman.com/" target="_blank">
     <img src="https://hristobonevbucket.s3.eu-north-1.amazonaws.com/media/images/generated_image_Postman.png" alt="Postman" width="60" height="60"/>
   </a>
+  <a href="https://www.pendo.io/" target="_blank">
+    <img src="https://hristobonevbucket.s3.eu-north-1.amazonaws.com/media/images/generated_image_Pendo.png" alt="Pendo" width="60" height="60"/>
+  </a>
   <img src="https://hristobonevbucket.s3.eu-north-1.amazonaws.com/media/images/generated_image_empty.png" alt="empty" width="60" height="60"/>
 </p>
 
