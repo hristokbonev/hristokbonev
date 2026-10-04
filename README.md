@@ -93,9 +93,6 @@ class Me:
   <a href="https://flask.palletsprojects.com/" target="_blank">
     <img src="https://hristobonevbucket.s3.eu-north-1.amazonaws.com/media/images/generated_image_Flask.png" alt="Flask" width="60" height="60"/>
   </a>
-  <a href="https://www.sqlalchemy.org/" target="_blank">
-    <img src="https://hristobonevbucket.s3.eu-north-1.amazonaws.com/media/images/generated_image_SQLAlchemy.png" alt="SQLAlchemy" width="60" height="60"/>
-  </a>
   <img src="https://hristobonevbucket.s3.eu-north-1.amazonaws.com/media/images/generated_image_empty.png" alt="empty" width="60" height="60"/>
 </p>
 
