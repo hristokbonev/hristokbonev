@@ -26,7 +26,7 @@ class Me:
             "runtimes": ["Node.js"],
             "frameworks": ["FastAPI", "React", "React Native", "Scrapy", "Playwright"],
             "databases": ["PostgreSQL", "MySQL", "MariaDB", "Redis"],
-            "data_tools": ["Prisma", "SQLAlchemy", "SQLModel", "PostGIS", "Supabase"],
+            "data_tools": ["Prisma", "SQLAlchemy", "SQLModel", "Supabase"],
             "tools": ["Docker", "Git", "Azure", "AWS"],
             "ai": ["Claude Code", "Codex", "Cursor", "OpenAI API"],
         }
@@ -93,6 +93,23 @@ class Me:
   <a href="https://flask.palletsprojects.com/" target="_blank">
     <img src="https://hristobonevbucket.s3.eu-north-1.amazonaws.com/media/images/generated_image_Flask.png" alt="Flask" width="60" height="60"/>
   </a>
+  <a href="https://www.sqlalchemy.org/" target="_blank">
+    <img src="https://hristobonevbucket.s3.eu-north-1.amazonaws.com/media/images/generated_image_SQLAlchemy.png" alt="SQLAlchemy" width="60" height="60"/>
+  </a>
+  <img src="https://hristobonevbucket.s3.eu-north-1.amazonaws.com/media/images/generated_image_empty.png" alt="empty" width="60" height="60"/>
+</p>
+
+`TypeScript Stack`
+<p align="left">
+  <a href="https://www.typescriptlang.org/" target="_blank">
+    <img src="https://hristobonevbucket.s3.eu-north-1.amazonaws.com/media/images/generated_image_TypeScript.png" alt="TypeScript" width="60" height="60"/>
+  </a>
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://hristobonevbucket.s3.eu-north-1.amazonaws.com/media/images/generated_image_Node.js.png" alt="Node.js" width="60" height="60"/>
+  </a>
+  <a href="https://socket.io/" target="_blank">
+    <img src="https://hristobonevbucket.s3.eu-north-1.amazonaws.com/media/images/generated_image_Socket.io.png" alt="Socket.io" width="60" height="60"/>
+  </a>
   <img src="https://hristobonevbucket.s3.eu-north-1.amazonaws.com/media/images/generated_image_empty.png" alt="empty" width="60" height="60"/>
 </p>
 
@@ -113,6 +130,9 @@ class Me:
   <a href="https://supabase.com/" target="_blank">
     <img src="https://hristobonevbucket.s3.eu-north-1.amazonaws.com/media/images/generated_image_Supabase.png" alt="Supabase" width="60" height="60"/>
   </a>
+  <a href="https://redis.io/" target="_blank">
+    <img src="https://hristobonevbucket.s3.eu-north-1.amazonaws.com/media/images/generated_image_Redis.png" alt="Redis" width="60" height="60"/>
+  </a>
   <img src="https://hristobonevbucket.s3.eu-north-1.amazonaws.com/media/images/generated_image_empty.png" alt="empty" width="60" height="60"/>
 </p>
 
@@ -129,6 +149,20 @@ class Me:
   </a>
   <a href="https://jinja.palletsprojects.com/en/stable/" target="_blank">
     <img src="https://hristobonevbucket.s3.eu-north-1.amazonaws.com/media/images/generated_image_Jinja.png" alt="Jinja" width="60" height="60"/>
+  </a>
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://hristobonevbucket.s3.eu-north-1.amazonaws.com/media/images/generated_image_React.png" alt="React" width="60" height="60"/>
+  </a>
+  <img src="https://hristobonevbucket.s3.eu-north-1.amazonaws.com/media/images/generated_image_empty.png" alt="empty" width="60" height="60"/>
+</p>
+
+`Mobile`
+<p align="left">
+  <a href="https://reactnative.dev/" target="_blank">
+    <img src="https://hristobonevbucket.s3.eu-north-1.amazonaws.com/media/images/generated_image_React_Native.png" alt="ReactNative" width="60" height="60"/>
+  </a>
+  <a href="https://expo.dev/" target="_blank">
+    <img src="https://hristobonevbucket.s3.eu-north-1.amazonaws.com/media/images/generated_image_Expo.png" alt="Expo" width="60" height="60"/>
   </a>
   <img src="https://hristobonevbucket.s3.eu-north-1.amazonaws.com/media/images/generated_image_empty.png" alt="empty" width="60" height="60"/>
 </p>
@@ -162,6 +196,15 @@ class Me:
   </a>
   <a href="https://platform.openai.com/docs/" target="_blank">
     <img src="https://hristobonevbucket.s3.eu-north-1.amazonaws.com/media/images/generated_image_OpenAI_API.png" alt="OpenAIAPI" width="60" height="60"/>
+  </a>
+  <a href="https://claude.com/claude-code" target="_blank">
+    <img src="https://hristobonevbucket.s3.eu-north-1.amazonaws.com/media/images/generated_image_Claude_Code.png" alt="ClaudeCode" width="60" height="60"/>
+  </a>
+  <a href="https://openai.com/codex/" target="_blank">
+    <img src="https://hristobonevbucket.s3.eu-north-1.amazonaws.com/media/images/generated_image_Codex.png" alt="Codex" width="60" height="60"/>
+  </a>
+  <a href="https://cursor.com/" target="_blank">
+    <img src="https://hristobonevbucket.s3.eu-north-1.amazonaws.com/media/images/generated_image_Cursor.png" alt="Cursor" width="60" height="60"/>
   </a>
   <img src="https://hristobonevbucket.s3.eu-north-1.amazonaws.com/media/images/generated_image_empty.png" alt="empty" width="60" height="60"/>
 </p>
