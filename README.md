@@ -22,12 +22,12 @@ class Me:
     @property
     def skills(self):
         return {
-            "languages": ["Python", "TypeScript", "JavaScript", "SQL"],
+            "languages": ["Python", "TypeScript", "JavaScript", "SQL", "HTML", "CSS"],
             "runtimes": ["Node.js"],
-            "frameworks": ["FastAPI", "React", "React Native", "Scrapy", "Playwright"],
+            "frameworks": ["FastAPI", "React", "React Native", "Expo", "Socket.io", "Scrapy", "Playwright"],
             "databases": ["PostgreSQL", "MySQL", "MariaDB", "Redis"],
-            "data_tools": ["Prisma", "SQLAlchemy", "SQLModel", "Supabase"],
-            "tools": ["Docker", "Git", "Azure", "AWS"],
+            "data_tools": ["SQLAlchemy", "SQLModel", "Supabase"],
+            "tools": ["Docker", "Git", "Linux", "Azure", "AWS", "Heroku", "Pendo"],
             "ai": ["Claude Code", "Codex", "Cursor", "OpenAI API"],
         }
 ```
