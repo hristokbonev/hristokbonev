@@ -18,13 +18,13 @@ class Me:
         self.passion = ["AI", "Data", "Backend Engineering"]
         self.current_focus = "Backend services, AI tools, MCP integrations & agent skills"
         self.vision = "Building technology that gives people their time back"
-        
+
     @property
     def skills(self):
         return {
             "languages": ["Python", "TypeScript", "JavaScript", "SQL"],
             "runtimes": ["Node.js"],
-            "frameworks": ["NestJS", "FastAPI", "React Native", "Scrapy", "Playwright"],
+            "frameworks": ["FastAPI", "React", "React Native", "Scrapy", "Playwright"],
             "databases": ["PostgreSQL", "MySQL", "MariaDB", "Redis"],
             "data_tools": ["Prisma", "SQLAlchemy", "SQLModel", "PostGIS", "Supabase"],
             "tools": ["Docker", "Git", "Azure", "AWS"],
@@ -34,7 +34,7 @@ class Me:
 
 <div align="center">
 <pre>
-    
+
   ```ascii
 ╔══════════════════════════════════════════════════════════════╗╔══════════════════════════════════════════════════════════════╗
 ║ 🏢 WORK @ Wildcard                                           ║║ 🏠 HOME                                                      ║
@@ -77,7 +77,7 @@ class Me:
     <img src="https://hristobonevbucket.s3.eu-north-1.amazonaws.com/media/images/generated_image_Git.png" alt="Git" width="60" height="60"/>
   </a>
   <a href="https://www.linux.org/" target="_blank">
-    <img src="https://hristobonevbucket.s3.eu-north-1.amazonaws.com/media/images/generated_image_Linux.png" alt="Git" width="60" height="60"/>
+    <img src="https://hristobonevbucket.s3.eu-north-1.amazonaws.com/media/images/generated_image_Linux.png" alt="Linux" width="60" height="60"/>
   </a>
   <img src="https://hristobonevbucket.s3.eu-north-1.amazonaws.com/media/images/generated_image_empty.png" alt="empty" width="60" height="60"/>
 </p>
@@ -118,11 +118,11 @@ class Me:
 
 `Frontend`
 <p align="left">
-   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://hristobonevbucket.s3.eu-north-1.amazonaws.com/media/images/generated_image_JavaScript.png" alt="JavaScript" width="60" height="60"/>
-   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://hristobonevbucket.s3.eu-north-1.amazonaws.com/media/images/generated_image_HTML_2.png" alt="HTML" width="60" height="60"/>
   </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://hristobonevbucket.s3.eu-north-1.amazonaws.com/media/images/generated_image_HTML_2.png" alt="HTML" width="60" height="60"/>
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
     <img src="https://hristobonevbucket.s3.eu-north-1.amazonaws.com/media/images/generated_image_CSS.png" alt="CSS" width="60" height="60"/>
@@ -166,9 +166,9 @@ class Me:
   <img src="https://hristobonevbucket.s3.eu-north-1.amazonaws.com/media/images/generated_image_empty.png" alt="empty" width="60" height="60"/>
 </p>
 
- 
+
 <div align="center">
- 
+
 <!-- <pre>
 ┌───────────────────────────┐
 │      >> [ STATS ] <<      │
