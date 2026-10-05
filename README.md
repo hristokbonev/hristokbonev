@@ -37,13 +37,13 @@ class Me:
 
   ```ascii
 ╔══════════════════════════════════════════════════════════════╗╔══════════════════════════════════════════════════════════════╗
-║ 🏢 WORK @ Wildcard                                           ║║ 🏠 HOME                                                      ║
-║ ┌────────────────────────────────────────────────────────┐   ║║ ┌────────────────────────────────────────────────────────┐   ║
-║ │ 🚀 Backend Engineer                                    │   ║║ │ 🎬 Former Actor and Stunt performer                    │   ║
-║ │ ⚡ Building backend services with TypeScript & Node.js  │   ║║ │ 🤸 Sport and arts junkie                               │   ║
-║ │ 🔗 Developing REST APIs & platform integrations        │   ║║ │ 🎤 Launching my stand-up comedy soon                   │   ║
-║ │ 🛠️ Building AI tools, MCP integrations & agent skills  │   ║║ │ 🛠️ Working on Scene, my dating & social app            │   ║
-║ │ 🧪 Testing, debugging & keeping systems reliable       │   ║║ │ 🌍 Can’t stay in one place for too long                │   ║
+║ 🏢 WORK @ Wildcard                                           ║║ 🏠 HOME                                                     ║
+║ ┌────────────────────────────────────────────────────────┐    ║║ ┌────────────────────────────────────────────────────────┐  ║
+║ │ 🚀 Backend Engineer                                    │   ║║ │ 🎬 Former Actor and Stunt performer                    │  ║
+║ │ ⚡ Building backend services with TypeScript & Node.js │   ║║ │ 🤸 Sport and arts junkie                               │  ║
+║ │ 🔗 Developing REST APIs & platform integrations        │   ║║ │ 🎤 Launching my stand-up comedy soon                   │  ║
+║ │ 🛠️ Building AI tools, MCP integrations & agent skills  │   ║║ │ 🛠️ Working on Scene, my dating & social app            │  ║
+║ │ 🧪 Testing, debugging & keeping systems reliable       │   ║║ │ 🌍 Can’t stay in one place for too long                │  ║
 ║ └────────────────────────────────────────────────────────┘   ║║ └────────────────────────────────────────────────────────┘   ║
 ╚══════════════════════════════════════════════════════════════╝╚══════════════════════════════════════════════════════════════╝
 
