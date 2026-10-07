@@ -211,24 +211,27 @@ class Me:
 
 
 <div align="center">
-
-<!-- <pre>
+<pre>
 ┌───────────────────────────┐
 │      >> [ STATS ] <<      │
 └───────────────────────────┘
 </pre>
-</div>
 
-<div align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hristokbonev"/>
-</div>
+<table>
+  <tr>
+    <td width="50%">
+      <img alt="GitHub stats" src="https://github-stats-extended.vercel.app/api?username=hristokbonev&show_icons=true&include_all_commits=true&show=prs_merged&hide=issues,contribs" />
+    </td>
+    <td width="50%">
+      <img alt="Most used languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=hristokbonev&layout=compact&langs_count=6&hide=HTML,CSS" />
+    </td>
+  </tr>
+</table>
 
-<div align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hristokbonev"/>
-</div>
+<br>
 
-<div align="center">
-  -->
+<img alt="Contribution streak" src="https://github-readme-streak-stats.herokuapp.com/?user=hristokbonev" />
+</div>
 <pre>
 ┌─────────────────────────────┐
 │   >> [ LET'S CONNECT ] <<   │
