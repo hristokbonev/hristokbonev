@@ -217,18 +217,7 @@ class Me:
 └───────────────────────────┘
 </pre>
 
-<table>
-  <tr>
-    <td width="50%">
-      <img alt="GitHub stats" src="https://github-stats-extended.vercel.app/api?username=hristokbonev&show_icons=true&include_all_commits=true&show=prs_merged&hide=issues,contribs" />
-    </td>
-    <td width="50%">
-      <img alt="Most used languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=hristokbonev&layout=compact&langs_count=6&hide=HTML,CSS" />
-    </td>
-  </tr>
-</table>
-
-<br>
+<img alt="Most used languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=hristokbonev&layout=compact&langs_count=6&hide=HTML,CSS" />
 
 <img alt="Contribution streak" src="https://github-readme-streak-stats.herokuapp.com/?user=hristokbonev" />
 </div>
