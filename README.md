@@ -232,6 +232,8 @@ class Me:
 
 <img alt="Contribution streak" src="https://github-readme-streak-stats.herokuapp.com/?user=hristokbonev" />
 </div>
+
+<div align="center">
 <pre>
 ┌─────────────────────────────┐
 │   >> [ LET'S CONNECT ] <<   │
